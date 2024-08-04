@@ -15,6 +15,6 @@ spec:
     spec:
       containers:
         - name: apache
-          image: httpd:latestes
+          image: httpd:latest
           ports:
             - containerPort: 80
